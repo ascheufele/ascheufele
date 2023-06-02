@@ -9,7 +9,7 @@
 - Executes instructions via microcode,
 - Employs an assembler I wrote in Python,
 - Aims to help people understand computer architecture.
-- Check out the repo ➡  [`8-bit-cpu-simulator`](https://github.com/ascheufele/8-bit-cpu-simulator)
+- Check out the repo ➡  [`8-bit-cpu-simulator`](https://github.com/ascheufele/8-bit-cpu-simulator#readme)
 #### I'm currently working on...
 * Expanding the instruction set
 * Developing a GUI with [`SFML`](https://www.sfml-dev.org/) to show real-time values across CPU components
