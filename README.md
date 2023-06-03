@@ -12,7 +12,7 @@
 - Check out the repo ➡  [`8-bit-cpu-simulator`](https://github.com/ascheufele/8-bit-cpu-simulator#readme)
 #### I'm currently working on...
 * Expanding the instruction set to include conditional jumps
-* Developing a GUI with the [`Simple and Fast Multimedia Library`](https://www.sfml-dev.org/) to show real-time values across CPU components
+* Developing a GUI with the [Simple and Fast Multimedia Library](https://www.sfml-dev.org/) to show real-time values across CPU components
 ***
 ### 🏎 I recently developed a Linux character driver that...
 - Translates user space messages to morse code stored in kernel space
