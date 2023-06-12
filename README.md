@@ -2,7 +2,7 @@
 
 ### 🎓 I'm a Computer Science graduate of the University of Massachusetts.
 
-### ⌨ I like to write code in C, C++, and Python  
+### ⌨ I like to write code in C, C++, C#, and Python  
 ***
 ### 🎱 I'm currently developing an 8-bit CPU simulator in C++ that...
 - Is based on my architecture design,
